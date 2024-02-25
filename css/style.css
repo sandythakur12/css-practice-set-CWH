@@ -15,11 +15,16 @@
 
 
 .button{
-    /* height: 50px; */
+    
     width:max-content;
     background-color: rgb(251, 175, 175);
      margin: 10px;
      padding: 30px;
      border-radius: 20px;
      
+}
+h1{
+  background-color: black;
+  color: white;
+  text-align: center;
 }
