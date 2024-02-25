@@ -1,0 +1,15 @@
+ol{
+    background-color: black;
+    color: white;
+}
+.div{
+    background-color: red;
+}
+.main{ 
+    width: 344px;
+    height: 344px;
+    background-image: url(/Users/sandeep/css practice set CWH/pexels-bess-hamiti-35537.jpeg);
+}
+body{
+    /* background-image: url('pexels-bess-hamiti-35537.jpeg'); */
+}
