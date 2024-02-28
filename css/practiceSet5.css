@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+}
+header{
+    background-color: black;
+    color: aqua;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+    /* list-style: outside; */
+    list-style: inside;
+}
+li{
+    display: inline; 
+    font-size: 2vw; 
+    padding: 15px;
+    
+}
+.container{
+    background-color: red;
+    height: 220vh;
+    position: relative;
+    /* z-index: 3; */
+}
